@@ -1,4 +1,4 @@
-# STM32F103C8T6
+# STM32F103C8T6 general GPIO board
 ![image](https://github.com/arda-kara/STM32F103C8T6/assets/112433322/50aaaf4e-fc2d-4cdb-99ad-e6dd6e2c4b4b)
 
 ![image](https://github.com/arda-kara/STM32F103C8T6/assets/112433322/96284613-08de-4699-ad89-ebd11a70ef6b)
